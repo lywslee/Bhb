@@ -1,0 +1,96 @@
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\LitJSON.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\Common.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\BLL.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\Common.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\LitJSON.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\Model.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\DAL.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\BLL.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\Common.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\Model.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\DAL.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\obj\Debug\ResolveAssemblyReference.cache
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\BLL.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\Common.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\LitJSON.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\Model.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\DAL.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\BLL.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\Common.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\Model.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\DAL.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\obj\Debug\ResolveAssemblyReference.cache
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\BLL.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\Common.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\LitJSON.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\Model.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\DAL.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\BLL.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\Common.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\Model.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\DAL.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\obj\Debug\ResolveAssemblyReference.cache
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\BLL.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Common.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\LitJSON.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Model.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\DAL.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\BLL.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Common.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Model.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\DAL.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.csprojResolveAssemblyReference.cache
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Web.UI.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\BLL.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Common.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\LitJSON.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Model.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\DAL.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\BLL.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Common.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\Model.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\DAL.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\bin\Debug\DBUtility.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.csprojResolveAssemblyReference.cache
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Web.UI\obj\Debug\Web.UI.pdb

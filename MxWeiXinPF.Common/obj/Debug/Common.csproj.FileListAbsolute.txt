@@ -1,0 +1,28 @@
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Common\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Common\bin\Debug\Common.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Common\obj\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.Common\obj\Debug\Common.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Common\bin\Debug\Common.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Common\bin\Debug\Common.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Self Program\self权限后台\MxWeiXinPF.Common\obj\Debug\Common.dll
+E:\Self Program\self权限后台\MxWeiXinPF.Common\obj\Debug\Common.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Common\bin\Debug\Common.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Common\bin\Debug\Common.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目文件\河东税校\web\MxWeiXinPF.Common\obj\Debug\Common.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.Common\obj\Debug\Common.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Common\bin\Debug\Common.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Common\bin\Debug\Common.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\Self Program\self后台\web\MxWeiXinPF.Common\obj\Debug\Common.dll
+F:\Self Program\self后台\web\MxWeiXinPF.Common\obj\Debug\Common.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Common\bin\Debug\Common.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Common\bin\Debug\Common.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Common\obj\Debug\Common.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.Common\obj\Debug\Common.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Common\bin\Debug\Common.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Common\bin\Debug\Common.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Common\obj\Debug\Common.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.Common\obj\Debug\Common.pdb

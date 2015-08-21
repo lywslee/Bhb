@@ -1,0 +1,66 @@
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\bin\Debug\Common.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\微信权限后台\MxWeiXinPF.DAL\obj\Debug\DAL.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\bin\Debug\DAL.dll
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\bin\Debug\DAL.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\bin\Debug\Common.dll
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\bin\Debug\DBUtility.dll
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\bin\Debug\Model.dll
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\bin\Debug\Common.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\bin\Debug\DBUtility.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\bin\Debug\Model.pdb
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\obj\Debug\DAL.dll
+E:\Self Program\self权限后台\MxWeiXinPF.DAL\obj\Debug\DAL.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\bin\Debug\DAL.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\bin\Debug\DAL.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\bin\Debug\Common.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\bin\Debug\DBUtility.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\bin\Debug\Model.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\bin\Debug\Common.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\bin\Debug\DBUtility.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\bin\Debug\Model.pdb
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\obj\Debug\DAL.dll
+E:\项目文件\河东税校\web\MxWeiXinPF.DAL\obj\Debug\DAL.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\bin\Debug\DAL.dll
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\bin\Debug\DAL.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\bin\Debug\Common.dll
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\bin\Debug\DBUtility.dll
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\bin\Debug\Model.dll
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\bin\Debug\Common.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\bin\Debug\DBUtility.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\bin\Debug\Model.pdb
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\obj\Debug\DAL.dll
+F:\Self Program\self后台\web\MxWeiXinPF.DAL\obj\Debug\DAL.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\DAL.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\DAL.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\Common.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\DBUtility.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\Model.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\Common.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\DBUtility.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\Model.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\obj\Debug\DAL.dll
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\obj\Debug\DAL.pdb
+F:\Self Program\刨花板信息管理系统\web\MxWeiXinPF.DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\DAL.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\DAL.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\Common.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\DBUtility.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\Model.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\Common.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\DBUtility.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\bin\Debug\Model.pdb
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\obj\Debug\DAL.dll
+F:\项目文件\刨花板信息管理系统\web\MxWeiXinPF.DAL\obj\Debug\DAL.pdb

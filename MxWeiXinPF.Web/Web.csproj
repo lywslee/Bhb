@@ -589,7 +589,6 @@
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="相关文档\20150808_创建数据表.sql" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="admin\article\article_edit.aspx.cs">
@@ -965,6 +964,7 @@
   <ItemGroup>
     <Folder Include="admin\test\" />
     <Folder Include="scripts\datepicker\skin\whyGreen\" />
+    <Folder Include="upload\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="xmlconfig\site.config">
@@ -1012,11 +1012,6 @@
     <None Include="images\font-awesome\scss\_variables.scss" />
     <None Include="Properties\PublishProfiles\ddd.pubxml" />
     <Content Include="tools\browser_redirect.ashx" />
-    <None Include="upload\2011年装修预算清单表.xls" />
-    <None Include="相关文档\XZJ_150419.xls" />
-    <None Include="相关文档\山东凯华-功能模块.doc" />
-    <None Include="相关文档\山东凯华-需求文档.doc" />
-    <None Include="相关文档\工期估算.xls" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
